@@ -1,0 +1,274 @@
+Connection: 2024-10-11 19:52:42 - Client connected
+Message Sent: 2024-10-11 19:52:42 - HAI IDO
+Message Received: 2024-10-11 19:52:42 - ACK from Server 1
+Connection: 2024-10-11 19:53:06 - Client connected
+Connection: 2024-10-11 19:53:06 - Client connected
+Connection: 2024-10-11 19:53:06 - Client connected
+Connection: 2024-10-11 19:53:06 - Client connected
+Connection: 2024-10-11 19:53:06 - Client connected
+Message Sent: 2024-10-11 19:53:06 - HAI IDO
+Message Sent: 2024-10-11 19:53:06 - HAI IDO
+Message Sent: 2024-10-11 19:53:06 - HAI IDO
+Message Sent: 2024-10-11 19:53:06 - HAI IDO
+Message Received: 2024-10-11 19:53:06 - ACK from Server 1
+Message Received: 2024-10-11 19:53:06 - ACK from Server 2
+Message Received: 2024-10-11 19:53:06 - ACK from Server 1
+Message Received: 2024-10-11 19:53:06 - ACK from Server 2
+Message Received: 2024-10-11 19:53:06 - ACK from Server 2
+Connection: 2024-10-11 19:56:39 - Client connected
+Connection: 2024-10-11 19:56:39 - Client connected
+Connection: 2024-10-11 19:56:39 - Client connected
+Connection: 2024-10-11 19:56:39 - Client connected
+Connection: 2024-10-11 19:56:39 - Client connected
+Message Sent: 2024-10-11 19:56:39 - jere ganteng
+Connection: 2024-10-11 19:56:39 - Client connected
+Message Sent: 2024-10-11 19:56:39 - jere ganteng
+Message Sent: 2024-10-11 19:56:39 - jere ganteng
+Message Sent: 2024-10-11 19:56:39 - jere ganteng
+Connection: 2024-10-11 19:56:39 - Client connected
+Message Sent: 2024-10-11 19:56:39 - jere ganteng
+Message Sent: 2024-10-11 19:56:39 - jere ganteng
+Connection: 2024-10-11 19:56:39 - Client connected
+Message Sent: 2024-10-11 19:56:39 - jere ganteng
+Message Received: 2024-10-11 19:56:39 - ACK from Server 1
+Connection: 2024-10-11 19:56:39 - Client connected
+Message Sent: 2024-10-11 19:56:39 - jere ganteng
+Message Received: 2024-10-11 19:56:39 - ACK from Server 2
+Connection: 2024-10-11 19:56:39 - Client connected
+Message Sent: 2024-10-11 19:56:39 - jere ganteng
+Message Received: 2024-10-11 19:56:39 - ACK from Server 1
+Message Received: 2024-10-11 19:56:39 - ACK from Server 2
+Message Received: 2024-10-11 19:56:39 - ACK from Server 1
+Message Received: 2024-10-11 19:56:39 - ACK from Server 2
+Message Received: 2024-10-11 19:56:39 - ACK from Server 1
+Message Received: 2024-10-11 19:56:39 - ACK from Server 2
+Message Received: 2024-10-11 19:56:39 - ACK from Server 1
+Message Received: 2024-10-11 19:56:39 - ACK from Server 2
+Connection: 2024-10-11 19:59:34 - Client connected
+Connection: 2024-10-11 19:59:34 - Client connected
+Connection: 2024-10-11 19:59:34 - Client connected
+Connection: 2024-10-11 19:59:34 - Client connected
+Connection: 2024-10-11 19:59:34 - Client connected
+Message Sent: 2024-10-11 19:59:34 - aw
+Message Sent: 2024-10-11 19:59:34 - aw
+Message Sent: 2024-10-11 19:59:34 - aw
+Message Sent: 2024-10-11 19:59:34 - aw
+Message Sent: 2024-10-11 19:59:34 - aw
+Message Received: 2024-10-11 19:59:34 - ACK from Server 1
+Message Received: 2024-10-11 19:59:34 - ACK from Server 2
+Message Received: 2024-10-11 19:59:34 - ACK from Server 1
+Message Received: 2024-10-11 19:59:34 - ACK from Server 2
+Message Received: 2024-10-11 19:59:34 - ACK from Server 1
+Message Received: 2024-10-11 19:59:34 - ACK from Server 2
+Connection: 2024-10-11 19:59:35 - Client connected
+Connection: 2024-10-11 19:59:35 - Client connected
+Connection: 2024-10-11 19:59:35 - Client connected
+Connection: 2024-10-11 19:59:35 - Client connected
+Connection: 2024-10-11 19:59:35 - Client connected
+Connection: 2024-10-11 19:59:35 - Client connected
+Connection: 2024-10-11 19:59:35 - Client connected
+Connection: 2024-10-11 19:59:35 - Client connected
+Message Sent: 2024-10-11 19:59:35 - aw
+Message Sent: 2024-10-11 19:59:35 - aw
+Message Sent: 2024-10-11 19:59:35 - aw
+Message Sent: 2024-10-11 19:59:35 - aw
+Message Sent: 2024-10-11 19:59:35 - aw
+Message Sent: 2024-10-11 19:59:35 - aw
+Message Sent: 2024-10-11 19:59:35 - aw
+Message Received: 2024-10-11 19:59:35 - ACK from Server 1
+Message Received: 2024-10-11 19:59:35 - ACK from Server 2
+Message Received: 2024-10-11 19:59:35 - ACK from Server 1
+Message Received: 2024-10-11 19:59:35 - ACK from Server 2
+Message Received: 2024-10-11 19:59:35 - ACK from Server 1
+Message Received: 2024-10-11 19:59:35 - ACK from Server 2
+Message Received: 2024-10-11 19:59:35 - ACK from Server 1
+Message Received: 2024-10-11 19:59:35 - ACK from Server 2
+Connection: 2024-10-11 19:59:35 - Client connected
+Message Sent: 2024-10-11 19:59:35 - aw
+Message Received: 2024-10-11 19:59:35 - ACK from Server 1
+Connection: 2024-10-11 19:59:44 - Client connected
+Connection: 2024-10-11 19:59:44 - Client connected
+Connection: 2024-10-11 19:59:44 - Client connected
+Connection: 2024-10-11 19:59:44 - Client connected
+Connection: 2024-10-11 19:59:44 - Client connected
+Connection: 2024-10-11 19:59:44 - Client connected
+Message Sent: 2024-10-11 19:59:44 - weg
+Message Sent: 2024-10-11 19:59:44 - weg
+Message Sent: 2024-10-11 19:59:44 - weg
+Message Sent: 2024-10-11 19:59:44 - weg
+Message Sent: 2024-10-11 19:59:44 - weg
+Message Sent: 2024-10-11 19:59:44 - weg
+Connection: 2024-10-11 19:59:44 - Client connected
+Message Sent: 2024-10-11 19:59:44 - weg
+Message Received: 2024-10-11 19:59:44 - ACK from Server 2
+Message Received: 2024-10-11 19:59:44 - ACK from Server 1
+Message Received: 2024-10-11 19:59:44 - ACK from Server 2
+Message Received: 2024-10-11 19:59:44 - ACK from Server 1
+Message Received: 2024-10-11 19:59:44 - ACK from Server 2
+Message Received: 2024-10-11 19:59:44 - ACK from Server 1
+Message Received: 2024-10-11 19:59:44 - ACK from Server 2
+Message Received: 2024-10-11 19:59:44 - ACK from Server 1
+Connection: 2024-10-11 19:59:45 - Client connected
+Connection: 2024-10-11 19:59:45 - Client connected
+Connection: 2024-10-11 19:59:45 - Client connected
+Connection: 2024-10-11 19:59:45 - Client connected
+Connection: 2024-10-11 19:59:45 - Client connected
+Connection: 2024-10-11 19:59:45 - Client connected
+Connection: 2024-10-11 19:59:45 - Client connected
+Connection: 2024-10-11 19:59:45 - Client connected
+Connection: 2024-10-11 19:59:45 - Client connected
+Connection: 2024-10-11 19:59:45 - Client connected
+Message Sent: 2024-10-11 19:59:45 - weg
+Connection: 2024-10-11 19:59:45 - Client connected
+Message Sent: 2024-10-11 19:59:45 - weg
+Message Sent: 2024-10-11 19:59:45 - weg
+Message Sent: 2024-10-11 19:59:45 - weg
+Message Sent: 2024-10-11 19:59:45 - weg
+Message Sent: 2024-10-11 19:59:45 - weg
+Message Sent: 2024-10-11 19:59:45 - weg
+Message Sent: 2024-10-11 19:59:45 - weg
+Message Sent: 2024-10-11 19:59:45 - weg
+Message Sent: 2024-10-11 19:59:45 - weg
+Message Sent: 2024-10-11 19:59:45 - weg
+Message Sent: 2024-10-11 19:59:45 - weg
+Message Received: 2024-10-11 19:59:45 - ACK from Server 2
+Message Received: 2024-10-11 19:59:45 - ACK from Server 1
+Message Received: 2024-10-11 19:59:45 - ACK from Server 2
+Message Received: 2024-10-11 19:59:45 - ACK from Server 1
+Message Received: 2024-10-11 19:59:45 - ACK from Server 2
+Message Received: 2024-10-11 19:59:45 - ACK from Server 1
+Message Received: 2024-10-11 19:59:45 - ACK from Server 2
+Message Received: 2024-10-11 19:59:45 - ACK from Server 1
+Message Received: 2024-10-11 19:59:45 - ACK from Server 2
+Message Received: 2024-10-11 19:59:45 - ACK from Server 1
+Message Received: 2024-10-11 19:59:45 - ACK from Server 2
+Message Received: 2024-10-11 19:59:45 - ACK from Server 1
+Connection: 2024-10-12 13:21:53 - Client connected
+Message Sent: 2024-10-12 13:21:53 - HAI JOHAN
+Message Received: 2024-10-12 13:21:53 - ACK from Server 1
+Connection: 2024-10-12 13:22:25 - Client connected
+Message Sent: 2024-10-12 13:22:25 - HAI JOHAN
+Message Sent: 2024-10-12 13:22:25 - HAI JOHAN
+Message Sent: 2024-10-12 13:22:25 - HAI JOHAN
+Message Received: 2024-10-12 13:22:25 - ACK from Server 1
+Message Received: 2024-10-12 13:22:25 - ACK from Server 2
+Message Received: 2024-10-12 13:22:25 - ACK from Server 2
+Message Received: 2024-10-12 13:22:25 - ACK from Server 1
+Message Received: 2024-10-12 13:22:25 - ACK from Server 2
+Connection: 2024-10-12 13:22:58 - Client connected
+Connection: 2024-10-12 13:22:58 - Client connected
+Connection: 2024-10-12 13:22:58 - Client connected
+Message Sent: 2024-10-12 13:22:58 - HAI JOHAN
+Message Sent: 2024-10-12 13:22:58 - HAI JOHAN
+Message Sent: 2024-10-12 13:22:58 - HAI JOHAN
+Message Sent: 2024-10-12 13:22:58 - HAI JOHAN
+Message Sent: 2024-10-12 13:22:58 - HAI JOHAN
+Message Sent: 2024-10-12 13:22:58 - HAI JOHAN
+Message Received: 2024-10-12 13:22:58 - ACK from Server 1
+Message Received: 2024-10-12 13:22:58 - ACK from Server 2
+Message Received: 2024-10-12 13:22:58 - ACK from Server 1
+Message Received: 2024-10-12 13:22:58 - ACK from Server 2
+Message Received: 2024-10-12 13:22:58 - ACK from Server 1
+Message Received: 2024-10-12 13:22:58 - ACK from Server 2
+Message Received: 2024-10-12 13:22:58 - ACK from Server 1
+Connection: 2024-10-12 13:22:59 - Client connected
+Connection: 2024-10-12 13:22:59 - Client connected
+Message Sent: 2024-10-12 13:22:59 - HAI JOHAN
+Message Sent: 2024-10-12 13:22:59 - HAI JOHAN
+Message Sent: 2024-10-12 13:22:59 - HAI JOHAN
+Message Received: 2024-10-12 13:22:59 - ACK from Server 2
+Message Received: 2024-10-12 13:22:59 - ACK from Server 1
+Message Received: 2024-10-12 13:22:59 - ACK from Server 2
+Connection: 2024-10-12 13:23:29 - Client connected
+Connection: 2024-10-12 13:23:29 - Client connected
+Connection: 2024-10-12 13:23:29 - Client connected
+Connection: 2024-10-12 13:23:29 - Client connected
+Connection: 2024-10-12 13:23:29 - Client connected
+Connection: 2024-10-12 13:23:29 - Client connected
+Message Sent: 2024-10-12 13:23:29 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:29 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:29 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:29 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:29 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:29 - HAI JOHAN
+Connection: 2024-10-12 13:23:29 - Client connected
+Message Sent: 2024-10-12 13:23:29 - HAI JOHAN
+Message Received: 2024-10-12 13:23:29 - ACK from Server 1
+Message Received: 2024-10-12 13:23:29 - ACK from Server 2
+Message Received: 2024-10-12 13:23:29 - ACK from Server 1
+Message Received: 2024-10-12 13:23:29 - ACK from Server 2
+Message Received: 2024-10-12 13:23:29 - ACK from Server 1
+Message Received: 2024-10-12 13:23:29 - ACK from Server 2
+Message Received: 2024-10-12 13:23:29 - ACK from Server 1
+Connection: 2024-10-12 13:23:30 - Client connected
+Connection: 2024-10-12 13:23:30 - Client connected
+Connection: 2024-10-12 13:23:30 - Client connected
+Connection: 2024-10-12 13:23:30 - Client connected
+Connection: 2024-10-12 13:23:30 - Client connected
+Message Sent: 2024-10-12 13:23:30 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:30 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:30 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:30 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:30 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:30 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:30 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:30 - HAI JOHAN
+Message Received: 2024-10-12 13:23:30 - ACK from Server 2
+Message Received: 2024-10-12 13:23:30 - ACK from Server 1
+Message Received: 2024-10-12 13:23:30 - ACK from Server 2
+Message Received: 2024-10-12 13:23:30 - ACK from Server 1
+Message Received: 2024-10-12 13:23:30 - ACK from Server 2
+Message Received: 2024-10-12 13:23:30 - ACK from Server 1
+Message Received: 2024-10-12 13:23:30 - ACK from Server 2
+Message Received: 2024-10-12 13:23:30 - ACK from Server 1
+Connection: 2024-10-12 13:23:50 - Client connected
+Connection: 2024-10-12 13:23:50 - Client connected
+Connection: 2024-10-12 13:23:50 - Client connected
+Connection: 2024-10-12 13:23:50 - Client connected
+Connection: 2024-10-12 13:23:50 - Client connected
+Message Sent: 2024-10-12 13:23:50 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:50 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:50 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:50 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:50 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:50 - HAI JOHAN
+Connection: 2024-10-12 13:23:50 - Client connected
+Message Sent: 2024-10-12 13:23:50 - HAI JOHAN
+Message Received: 2024-10-12 13:23:50 - ACK from Server 2
+Message Received: 2024-10-12 13:23:50 - ACK from Server 1
+Message Received: 2024-10-12 13:23:50 - ACK from Server 2
+Message Received: 2024-10-12 13:23:50 - ACK from Server 1
+Message Received: 2024-10-12 13:23:50 - ACK from Server 2
+Message Received: 2024-10-12 13:23:50 - ACK from Server 1
+Message Received: 2024-10-12 13:23:50 - ACK from Server 2
+Message Received: 2024-10-12 13:23:50 - ACK from Server 1
+Connection: 2024-10-12 13:23:51 - Client connected
+Connection: 2024-10-12 13:23:51 - Client connected
+Connection: 2024-10-12 13:23:51 - Client connected
+Connection: 2024-10-12 13:23:51 - Client connected
+Message Sent: 2024-10-12 13:23:51 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:51 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:51 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:51 - HAI JOHAN
+Message Received: 2024-10-12 13:23:51 - ACK from Server 2
+Message Received: 2024-10-12 13:23:51 - ACK from Server 1
+Message Received: 2024-10-12 13:23:51 - ACK from Server 2
+Message Received: 2024-10-12 13:23:51 - ACK from Server 1
+Message Received: 2024-10-12 13:23:51 - ACK from Server 2
+Connection: 2024-10-12 13:23:51 - Client connected
+Connection: 2024-10-12 13:23:51 - Client connected
+Connection: 2024-10-12 13:23:51 - Client connected
+Connection: 2024-10-12 13:23:51 - Client connected
+Message Sent: 2024-10-12 13:23:51 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:51 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:51 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:51 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:51 - HAI JOHAN
+Message Sent: 2024-10-12 13:23:51 - HAI JOHAN
+Message Received: 2024-10-12 13:23:51 - ACK from Server 1
+Message Received: 2024-10-12 13:23:51 - ACK from Server 2
+Message Received: 2024-10-12 13:23:51 - ACK from Server 1
+Message Received: 2024-10-12 13:23:51 - ACK from Server 2
+Message Received: 2024-10-12 13:23:51 - ACK from Server 1
+Message Received: 2024-10-12 13:23:51 - ACK from Server 2
+Message Received: 2024-10-12 13:23:51 - ACK from Server 1
